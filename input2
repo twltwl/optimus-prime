@@ -1,0 +1,43 @@
+// This is a comment, so it should be filtered out by your application
+// 1 is not a prime number
+1
+2477
+231759753
+3
+2147483647
+127
+139213181
+3019
+8589935681
+157886971
+// Strings are not prime numbers, of course
+foo
+7451
+1607
+81
+// Some things might look like numbers but are not
+II
+711
+997
+2
+2305843009213693951
+22
+877
+// Ignore empty lines
+  
+7829
+// Leading whitespace makes for invalid number
+ 11
+14741
+7919
+// Ignore as well - this is clearly not a number
+K�"����b��;{u6,dOke�P>H��c�
+27005294354181
+593
+// 0 is not a prime number
+0
+2039
+// Not a number, note capital letter "o" instead of the digit 0
+2O39
+// Repeated number (127 appeared before in this file), so it should not be counted again
+127
